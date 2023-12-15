@@ -8,7 +8,7 @@ adminLogin();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Panel</title>
+    <title>Admin Panel - Room Ratings</title>
 
     <?php require('inc/links.php'); ?>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
@@ -150,7 +150,7 @@ adminLogin();
                             <a href="ratings8.php" class="text-decoration-none">
                                 <div class="bg-white rounded shadow p-2 border-top border-4 align-items-center pop text-dark">
                                     <h6 class="text-center h-font"><br>Villa Suite</h6>
-                                    <p class="text-center">Room #9</p>
+                                    <p class="text-center">Room #8</p>
                                 </div>
                             </a>
                         </div>
