@@ -1,0 +1,47 @@
+  
+  *{
+    font-family: 'Work Sans', sans-serif;
+    }
+    .h-font{
+    font-family: 'EB Garamond', serif;
+    }
+    input ::-webkit-outer-spin-button,
+    input ::-webkit-inner-spin-button{
+        -webkit-appearance: none;
+        margin:0;
+    }
+    input[type=number]{
+        -moz-appearance: textfield;
+    }
+    .custom-bg{
+        background-color: #a3ac84;
+        border: 1px solid #eee6e1;
+    }
+    .custom-bg:hover{
+        background-color: #4d4838;
+        border-color: #eee6e1;
+
+    }
+.h-line{
+    width: 150px;
+    margin: 0 auto;
+    height: 1.7px;
+}
+
+.custom-alert{
+    position: fixed;
+    top: 25px;
+    right: 25px;
+}
+#dashboard-menu{
+    position: fixed;
+    height: 100%;
+}
+@media screen and (max-width: 992px){
+    
+#dashboard-menu{
+    position: fixed;
+    height: auto;
+}
+    
+}

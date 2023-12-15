@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sendinblue/api-v3-sdk": "8.x.x",
+        "mailin-api/mailin-api-php": "^1.0"
+    }
+}
